@@ -1,5 +1,7 @@
 # IROF
 IROF: An AI-Driven Framework for Automated Threat Detection, Prioritization &amp; Incident Response Optimization with Explainability
+![- visual selection(4)](https://github.com/user-attachments/assets/6982c854-9d25-4560-9734-be15b288d28b)
+
 
 ## ABSTRACT
 Traditional Incident Response (IR) frameworks are gradually challenged by the thriving scale and complexity of emerging cyber threats, limiting their effectiveness in timely detection, prioritization, and response. To surpass these limitations, we propose an AI-driven Incident Response Optimization Framework (IROF) that integrates Explainable AI (XAI), Generative AI (GenAI), and Large Language Models (LLMs). IROF leverages threat intelligence, historical attack patterns, and real-time behavioral data to enhance threat detection, incident classification, and automated response actions, with incidents prioritized through rigorous impact and risk assessments. The framework's efficacy is validated using real-world stealer malware datasets sourced from OSINT, dark web forums, and Telegram channels. Its implementation incorporates advanced technologies including machine learning, natural language processing (NLP), knowledge graphs (Neo4j), and SOAR tools such as TheHive, Cortex, and ELK. Key techniques, including graph neural networks (GNNs), LLM summarization, XGBoost classification, and reinforcement learning, are employed to achieve significant improvements in detection accuracy, triage efficiency, and decision explainability.
