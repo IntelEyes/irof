@@ -6,13 +6,13 @@ TIIROF (Threat Informed Incident Response Optimization Framework): An AI-Driven 
 📌 Overview
 
 Traditional Incident Response (IR) frameworks are increasingly inadequate against the growing scale and complexity of modern cyber threats. TIIROF addresses this critical gap with an AI-Driven Incident Response Optimization Framework (IROF) that integrates cutting-edge technologies such as:
-    🧠 Explainable AI (XAI)
-    🤖 Generative AI (GenAI)
-    📚 Large Language Models (LLMs)
-    🌐 Threat Intelligence from OSINT, Dark Web, Telegram
-    📊 Graph Analytics (Neo4j)
-    🧬 Machine Learning (XGBoost, GNNs)
-    🛠️ SOAR Tools (TheHive, Cortex, ELK)
+🧠 Explainable AI (XAI)
+🤖 Generative AI (GenAI)
+📚 Large Language Models (LLMs)
+🌐 Threat Intelligence from OSINT, Dark Web, Telegram
+📊 Graph Analytics (Neo4j)
+🧬 Machine Learning (XGBoost, GNNs)
+🛠️ SOAR Tools (TheHive, Cortex, ELK)
 
 TIIROF transforms threat detection, incident triage, and response automation using intelligent decision-making and transparent explainability.
 
