@@ -47,10 +47,10 @@ Tested on real-world stealer malware datasets from OSINT, dark web marketplaces,
 | --------------- | ------------------------------------ |
 | Language        | Python, YAML, JSON                   |
 | AI/ML Models    | XGBoost, GNN, Reinforcement Learning |
-| NLP/GenAI       | OpenAI LLMs, Transformers, LangChain |
+| NLP/GenAI       | OpenAI LLMs, Transformers, LangChain, LLAMA Index |
 | Knowledge Graph | Neo4j                                |
 | SOAR            | TheHive, Cortex, ELK                 |
-| Visualization   | Streamlit, Plotly, Neo4j Bloom       |
+| Visualization   | Streamlit, Plotly, Neo4j Bloom, Grafana, Kibana       |
 | Datasets        | OSINT, Dark Web, Telegram Dumps      |
 ----------------------------------------------------------
 
