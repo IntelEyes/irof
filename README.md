@@ -59,3 +59,11 @@ Tested on real-world stealer malware datasets from OSINT, dark web marketplaces,
    * 📋 Incident Heatmaps: Prioritized incidents by severity and risk score
    * 🧠 Explainability Views: SHAP, attention maps for LLM-based summaries
    * 📈 Triage Timeline: End-to-end timeline from detection to remediation
+
+## 🤝 Contribution & Collaboration We welcome collaboration with:
+* CERT/CSIRT teams
+* SOC analysts and researchers
+* Malware reverse engineers
+* OSINT investigators
+
+📬 Contact If you are a national CERT, CSIRT, SOC, or research group interested in receiving threat reports or contributing to this project, please contact me engrarifcce@gmail.com
