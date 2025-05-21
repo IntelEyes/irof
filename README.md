@@ -1,5 +1,5 @@
 # 🛡️ TIIROF: Threat Informed Incident Response Optimization Framework
-TIIROF (Threat Informed Incident Response Optimization Framework): An AI-Driven Framework for Automated Threat Detection, Prioritization &amp; Incident Response Optimization with Explainability
+TIIROF (Threat Informed Incident Response Optimization Framework): An AI-Driven Framework for Automated Threat Detection, Prioritization &amp; Incident Response Optimization with Explainability and Logical Reasoning
 
 ![- visual selection(4)](https://github.com/user-attachments/assets/6982c854-9d25-4560-9734-be15b288d28b)
 
